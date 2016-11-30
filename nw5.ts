@@ -8,12 +8,11 @@ var bram: string = "Bram";
 
 // 3.    Schrijf de eerste naam naar de ID "typescript-output"
 document.getElementById("typescript-output").innerHTML = kim;
-document.getElementById("typescript-output").innerHTML = niels;
-document.getElementById("typescript-output").innerHTML = koen;
-document.getElementById("typescript-output").innerHTML = coen;
-document.getElementById("typescript-output").innerHTML = karen;
-document.getElementById("typescript-output").innerHTML = bram;
-
+document.write(niels + "<br />");
+document.write(koen + "<br />"));
+document.write(coen + "<br />"));
+document.write(karen + "<br />"));
+document.write(bram + "<br />"));
 
 // 4.    Maak 6 integer variables met de leeftijden van ieder teamlid
 
