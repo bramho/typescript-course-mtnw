@@ -5,6 +5,7 @@
 // 5.    Schrijf iedere naam + de leeftijd naar de pagina als "[naam] is [leeftijd] jaar oud"
 // 6.    Maak een namen array met de namen erin van ieder teamlid
 // 7.    Maak een for-loop die door de namen loopt en alle namen naar de pagina uitpoept
+// 8.    Maak een interface Teamleden met een string voornaam, string achternaam en een integer leeftijd
 // 9.    Maak 6 instance variables van de Teamleden interface en zet hierin de voornaam, achternaam en leeftijd
 // 10.   Schrijf de namen en leeftijden naar de pagina
 // 11.   Maak een class Persoon aan en maak hierin een constructor aan die de voornaam, achternaam, leeftijd en een boolean isTeamlid opmeent
