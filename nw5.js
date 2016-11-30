@@ -5,8 +5,13 @@ var koen = "Koen";
 var coen = "Coen";
 var karen = "Karen";
 var bram = "Bram";
-// 3.    Schrijf iedere naam naar de ID "typescript-output"
-document.getElementById("typescript-output").innerHTML = "Naam: " + kim;
+// 3.    Schrijf de eerste naam naar de ID "typescript-output"
+document.getElementById("typescript-output").innerHTML = kim;
+document.getElementById("typescript-output").innerHTML = niels;
+document.getElementById("typescript-output").innerHTML = koen;
+document.getElementById("typescript-output").innerHTML = coen;
+document.getElementById("typescript-output").innerHTML = karen;
+document.getElementById("typescript-output").innerHTML = bram;
 // 4.    Maak 6 integer variables met de leeftijden van ieder teamlid
 // 5.    Schrijf iedere naam + de leeftijd naar "typescript-output" als "[naam] is [leeftijd] jaar oud"
 // 6.    Maak een namen array met de namen erin van ieder teamlid
