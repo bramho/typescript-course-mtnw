@@ -1,4 +1,4 @@
-// 2.    Maak 6 string variables met elk de naam van een teamlid
+// 2.    Importeer de js file in index.html en maak 6 string variables met elk de naam van een teamlid
 // 3.    Schrijf iedere naam naar de ID "typescript-output"
 // 4.    Maak 6 integer variables met de leeftijden van ieder teamlid
 // 5.    Schrijf iedere naam + de leeftijd naar "typescript-output" als "[naam] is [leeftijd] jaar oud"

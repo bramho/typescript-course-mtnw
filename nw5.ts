@@ -1,4 +1,4 @@
-// 2.    Maak 6 string variables met elk de naam van een teamlid
+// 2.    Importeer de js file in index.html en maak 6 string variables met elk de naam van een teamlid
 
 // 3.    Schrijf iedere naam naar de ID "typescript-output"
 
