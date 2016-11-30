@@ -8,5 +8,4 @@ tsc *.ts --watch
 </pre>
 
 <h2>Answers</h2>
-Answers can be found within the <code>Answers</code> branche
-
+Answers can be found within the <code>/answer-files</code> folder.
