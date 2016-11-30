@@ -3,7 +3,7 @@ var __extends = (this && this.__extends) || function (d, b) {
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
-// 2.    Importeer de js file in index.html voor de </body> tag en maak 6 string variables met elk de naam van een teamlid
+// 2.   Importeer de js file in index.html voor de </body> tag en maak 6 string variables met elk de naam van een teamlid
 var kim = "Kim";
 var niels = "Niels";
 var koen = "Koen";

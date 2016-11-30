@@ -7,7 +7,7 @@ var karen: string = "Karen";
 var bram: string = "Bram";
 
 // 3.    Schrijf de eerste naam naar de ID "typescript-output" en schrijf de rest van de namen direct naar de pagina
-// TIP: Gebruik "<br />" om de namen onder elkaar te krijgen, concatinate dit aan de naam
+// TIP: Gebruik "<br />" om de namen onder elkaar te krijgen, concatinate dit aan de naam.
 document.getElementById("typescript-output").innerHTML = kim;
 document.write(niels + "<br />");
 document.write(koen + "<br />");
