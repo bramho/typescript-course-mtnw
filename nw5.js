@@ -1,5 +1,6 @@
 // 2.    Importeer de js file in index.html voor de </body> tag en maak 6 string variables met elk de naam van een teamlid
 // 3.    Schrijf de eerste naam naar de ID "typescript-output" en schrijf de rest van de namen direct naar de pagina
+// TIP: Gebruik "<br />" om de namen onder elkaar te krijgen, concatinate dit aan de naam
 // 4.    Maak 6 integer variables met de leeftijden van ieder teamlid
 // 5.    Schrijf iedere naam + de leeftijd naar "typescript-output" als "[naam] is [leeftijd] jaar oud"
 // 6.    Maak een namen array met de namen erin van ieder teamlid
