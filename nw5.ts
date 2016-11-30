@@ -1,6 +1,14 @@
 // 2.    Maak 6 string variables met elk de naam van een teamlid
+var kim: string = "Kim";
+var niels: string = "Niels";
+var koen: string = "Koen";
+var coen: string = "Coen";
+var karen: string = "Karen";
+var bram: string = "Bram";
 
 // 3.    Schrijf iedere naam naar de ID "typescript-output"
+document.getElementById("typescript-output").innerHTML = "Naam: " + kim;
+
 
 // 4.    Maak 6 integer variables met de leeftijden van ieder teamlid
 
