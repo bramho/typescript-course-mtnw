@@ -9,12 +9,18 @@ var bram: string = "Bram";
 // 3.    Schrijf de eerste naam naar de ID "typescript-output"
 document.getElementById("typescript-output").innerHTML = kim;
 document.write(niels + "<br />");
-document.write(koen + "<br />"));
-document.write(coen + "<br />"));
-document.write(karen + "<br />"));
-document.write(bram + "<br />"));
+document.write(koen + "<br />");
+document.write(coen + "<br />");
+document.write(karen + "<br />");
+document.write(bram + "<br />");
 
 // 4.    Maak 6 integer variables met de leeftijden van ieder teamlid
+var leeftijd_kim: number = 25;
+var leeftijd_niels: number = 21;
+var leeftijd_koen: number = 23;
+var leeftijd_coen: number = 22;
+var leeftijd_niels: number = 21;
+var leeftijd_bram: number = 20;
 
 // 5.    Schrijf iedere naam + de leeftijd naar "typescript-output" als "[naam] is [leeftijd] jaar oud"
 
